@@ -1,0 +1,47 @@
+body {
+    padding: 20px;
+}
+.heading {
+    text-align: center;
+    line-height: 25px;
+}
+
+.heading-title {
+    color: rgb(103, 58, 183);
+    font-size: 24px;
+    font-weight: 600
+}
+
+.heading-desc {
+    color: rgb(158, 158, 158);
+}
+
+#pokemon-app {
+    padding: 20px;
+}
+
+.berries-list {
+    width: 40%;
+    float: left;
+}
+
+.berries-heading {
+    color: rgb(103, 58, 183);
+}
+
+.berry {
+    padding: 10px;
+    cursor: pointer;
+}
+
+#berries-desc {
+    margin-top: 40px;
+}
+
+.table, th, td {
+    border: 1px solid rgb(158, 158, 158);
+}
+
+th, td {
+    padding: 10px;
+}
